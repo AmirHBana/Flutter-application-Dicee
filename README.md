@@ -33,7 +33,7 @@
 <br>
 
 
-<h3> <strong> $> git clone https://github.com/AmirHBana/https://github.com/AmirHBana/Flutter-application-i-am-rich.git </strong> </h3>
+<h3> <strong> $> git clone https://github.com/AmirHBana/https://github.com/AmirHBana/Flutter-application-Dicee.git </strong> </h3>
 
 <br>
 <br>
