@@ -41,7 +41,7 @@
 <h5>Install dependencies</h5>
 
 <hr>
-<br>
+
 
 <h3> <strong> $> flutter install </strong></h3>
 
@@ -50,7 +50,7 @@
 <h5> Start development server </h5>
 
 <hr>
-<br>
+
 
 <h3> <strong> $> flutter run </strong> </h3>
 
