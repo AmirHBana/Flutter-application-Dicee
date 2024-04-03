@@ -31,28 +31,25 @@
 
 <h5> Clone this project </h5>
 <br>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> $> git clone https://github.com/AmirHBana/https://github.com/AmirHBana/Flutter-application-Dicee.git </pre></div>
 
-
-<h3> <strong> $> git clone https://github.com/AmirHBana/https://github.com/AmirHBana/Flutter-application-Dicee.git </strong> </h3>
 
 <br>
 <br>
 
-<h5>Install dependencies</h5>
-
-<hr>
-
-
-<h3> <strong> $> flutter install </strong></h3>
+<p> Install dependencies </p>
 
 <br>
 
-<h5> Start development server </h5>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> flutter install</pre></div>
 
-<hr>
+<br>
 
+<p> Start development server </p>
 
-<h3> <strong> $> flutter run </strong> </h3>
+<br>
+
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> flutter run</pre></div>
 
 <br>
 <br>
